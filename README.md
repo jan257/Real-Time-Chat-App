@@ -62,7 +62,7 @@ Ensure you have the following installed:
   CLOUDINARY_API_SECRET=...
 
   NODE_ENV=development
-   ```
+   ``
 
 4. **Build the application:**
    ```bash
