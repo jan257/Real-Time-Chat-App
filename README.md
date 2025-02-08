@@ -81,8 +81,8 @@ Ensure you have the following installed:
 ### 🌟 Home Page
 ![Home Page Screenshot](screenshots/homepage.png)
 
-### 💬 Chat Interface
-![Chat Interface Screenshot](screenshots/chatinterface.png)
+### 🎨 Theme Selection
+![Theme Selection Screenshot](screenshots/themeselection.png)
 
 (Note: Add actual screenshots to your `screenshots` folder)
 
